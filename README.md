@@ -6,4 +6,8 @@
 
 #### Hi
 
-<https://github.com/Zhenye-Na/leetcode>
+
+[from https://github.com/Zhenye-Na/leetcode ](https://github.com/Zhenye-Na/leetcode)
+
+https://netlol.github.io/blog/
+
