@@ -4,97 +4,20 @@
 entries:
   - title: Info
     entries:
-      - title: my leetcode problem solutions with explanation
+      - title: my blog
       - title: github repo
-        url: https://github.com/Zhenye-Na/leetcode
+        url: https://github.com/netlol/leetcode
 
-  - title: Array
+  - title: 文件
     post_list:
-      category: array
+      category: document
       show_more: true
       show_more_text: See more problems...
-      show_more_url: array.html
+      show_more_url: document.html
 
-  - title: Binary Search
+  - title: 標準作業程序
     post_list:
-      category: binary-search
+      category: sop
       show_more: true
       show_more_text: See more problems...
-      show_more_url: binary-search.html
-
-  - title: BFS
-    post_list:
-      category: bfs
-      show_more: true
-      show_more_text: See more problems ...
-      show_more_url: bfs.html
-
-  - title: DFS
-    post_list:
-      category: dfs
-      show_more: true
-      show_more_text: See more problems ...
-      show_more_url: dfs.html
-
-  - title: Divide & Conquer
-    post_list:
-      category: divide-and-conquer
-      show_more: true
-      show_more_text: See more problems ...
-      show_more_url: divide-and-conquer.html
-
-  - title: Dynamic Programming
-    post_list:
-      category: dp
-      show_more: true
-      show_more_text: See more problems ...
-      show_more_url: dp.html
-
-  - title: Graph
-    post_list:
-      category: graph
-      show_more: true
-      show_more_text: See more problems ...
-      show_more_url: graph.html
-
-  - title: HashMap
-    post_list:
-      category: hashmap
-      show_more: true
-      show_more_text: See more problems ...
-      show_more_url: hashmap.html
-
-  - title: Heap / Priority Queue
-    post_list:
-      category: heap
-      show_more: true
-      show_more_text: See more problems ...
-      show_more_url: heap.html
-
-  - title: Linked List
-    post_list:
-      category: linked-list
-      show_more: true
-      show_more_text: See more problems ...
-      show_more_url: linked-list.html
-
-  - title: Prefix Sum
-    post_list:
-      category: prefix-sum
-      show_more: true
-      show_more_text: See more problems ...
-      show_more_url: prefix-sum.html
-
-  - title: Trie / Prefix Tree
-    post_list:
-      category: trie
-      show_more: true
-      show_more_text: See more problems ...
-      show_more_url: trie.html
-
-  - title: Two Pointers
-    post_list:
-      category: two-pointers
-      show_more: true
-      show_more_text: See more problems ...
-      show_more_url: two-pointers.html
+      show_more_url: sop.html
