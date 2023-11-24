@@ -10,14 +10,17 @@ entries:
 
   - title: 文件
     post_list:
+      limit: 1000
       category: document
       show_more: true
-      show_more_text: See more problems...
-      show_more_url: document.html
+      show_more_text: See archive...
+      show_more_url: archive.html
 
   - title: 標準作業程序
     post_list:
+      limit: 1000    
       category: sop
       show_more: true
-      show_more_text: See more problems...
-      show_more_url: sop.html
+      show_more_text: See archive...
+      show_more_url: archive.html
+
